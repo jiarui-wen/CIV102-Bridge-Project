@@ -8,4 +8,4 @@ Our bridge placed 4th out of 81 teams in the annual CIV102 bridge contest, where
 
 ![511](https://github.com/user-attachments/assets/aeef361c-1f04-4388-aedf-188379a5823b)
 Left to right: [Jiarui Wen](https://github.com/jiarui-wen), [Frank Fang](https://github.com/FaFaFrankie), [Boya Zhang](https://github.com/BoyaZhangNB).
-
+Note: We wrote a failure load of 399N on the bridge (the first test is 400N), even though the calculations gave us 1021N, because we didn't have confidence in our construction quality. However, the bridge ended up surviving much longer than we expected! 
