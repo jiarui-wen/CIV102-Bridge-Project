@@ -4,7 +4,7 @@ The goal of this project is to build a box-girder bridge out of matboard and con
 
 For the final design, our calculated failure load prediction is 1021N, due to shear buckling in the webs. During testing, it failed at 740N due to failure at the supporting edge, which can be attributed to construction inaccuracy.   
 
-Our bridge placed 4th out of 81 teams in the annual CIV102 bridge contest, where marks are given for strength-to-weight ratio, prediction accuracy, and construction quality.  
+Our team placed 4th out of 81 teams in the annual CIV102 bridge contest, where marks are given for strength-to-weight ratio, prediction accuracy, and construction quality.  
 
 <!--![511](https://github.com/user-attachments/assets/aeef361c-1f04-4388-aedf-188379a5823b)
 Left to right: [Jiarui Wen](https://github.com/jiarui-wen), [Frank Fang](https://github.com/FaFaFrankie), [Boya Zhang](https://github.com/BoyaZhangNB).
